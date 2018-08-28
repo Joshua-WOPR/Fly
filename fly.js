@@ -2,7 +2,7 @@
 // Frank Cizmich — http://frank.urugate.com/
 // Cleaned up for GitHub by FreeAgent
 
-var path="http://frank.urugate.com/flies.png";
+var path="https://cdn.rawgit.com/Joshua-WOPR/Fly/8b155f1a/flies.png";
 
 /*  Obtain the size of the window */
 if( typeof( window.innerWidth ) == 'number' ) {
