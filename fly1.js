@@ -1,6 +1,6 @@
 /* Setting URL path for the flies resource */
 // var path="https://cdn.rawgit.com/Joshua-WOPR/Fly/8b155f1a/flies.png";
-var path="https://cdn.rawgit.com/Joshua-WOPR/Homer/2a76334f/Homer.png";
+var path="https://s3.amazonaws.com/loucode/images/Homer.png";
 /* Obtaining the size of the window */
 if( typeof( window.innerWidth ) == 'number' ) {
     var shellWidth = window.innerWidth;
